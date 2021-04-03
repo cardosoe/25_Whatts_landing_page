@@ -5,6 +5,7 @@
 }
 
 /* barra de navegación */
+
 .nav-ul a {
   margin-right: 57px;
   font-family: "Roboto", sans-serif;
@@ -32,12 +33,23 @@ a {
 
 /* /barra de navegación */
 
+.cont-nav {
+  border: 1px solid #e0752f;
+  opacity: 1;
+  height: 70px;
+  border-left-width: 0px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+}
+
 .h1-header {
-  margin-top: 191px;
+  margin-top: 156px;
   font-family: "Poppins", sans-serif;
   text-align: left;
   letter-spacing: 0.67px;
   color: #ffffff;
+  opacity: 1;
+  margin-top: 1px solid #e0752f;
   opacity: 1;
 }
 
