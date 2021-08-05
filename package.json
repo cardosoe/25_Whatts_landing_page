@@ -1,0 +1,27 @@
+{
+  "name": "25_whatts_landing_page",
+  "version": "1.0.0",
+  "description": "Primera práctica del curso FullStack Web 2021.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "node": "^16.6.1",
+    "node-bin-setup": "^1.0.6",
+    "node-sass": "^6.0.1",
+    "sass": "^1.37.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardosoe/25_Whatts_landing_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardosoe/25_Whatts_landing_page/issues"
+  },
+  "homepage": "https://github.com/cardosoe/25_Whatts_landing_page#readme"
+}
